@@ -4,11 +4,11 @@ Hi! My name is Evgenii Perov
 Backend Developer
 -----------------
 
-I'm 17 and I'm studying in Orenburg State University on software engineering course. I started learning programming on my own at school. The first big step is the brilliant completion of the Yandex Academy course "Backend on Django". Later I tried myself as a mentor on this course. I have different experience in programming: as a mentor, as a teamlead in small team, as a backend developer on event's project in Yandex Academy and as a solo web-developer. Some of my projects are hidden, but you can find examples of my work here.
+I'm 18 and I'm studying in Orenburg State University on software engineering course. I started learning programming on my own at school. The first big step is the brilliant completion of the Yandex Academy course "Backend on Django". Later I tried myself as a mentor on this course. I have different experience in programming: as a mentor, as a teamlead in small team, as a backend developer on event's project in Yandex Academy and as a solo web-developer. Some of my projects are hidden, but you can find examples of my work here.
 
 *   🌍  I'm based in Orenburg
 *   ✉️  You can contact me at [alissonstrange@yandex.com](mailto:alissonstrange@yandex.com)
-*   🧠  I'm learning C++, Algorithms and Data Structures
+*   🧠  My main language - Python. I'm learning C++, Algorithms and Data Structures
 
 <h1>Skills</h1> 
 <p align="left">
