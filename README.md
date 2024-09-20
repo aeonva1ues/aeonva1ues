@@ -8,7 +8,7 @@ I'm 18 and I'm studying in Orenburg State University on software engineering cou
 
 *   🌍  I'm based in Orenburg
 *   ✉️  You can contact me at [alissonstrange@yandex.com](mailto:alissonstrange@yandex.com)
-*   🧠  My main language - Python. I'm learning C++, Algorithms and Data Structures
+*   🧠  My main language - Python. I'm learning Go, Algorithms and Data Structures
 
 <h1>Skills</h1> 
 <p align="left">
