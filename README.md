@@ -6,6 +6,8 @@ Backend Developer
 
 I'm 18 and I'm studying in Orenburg State University on software engineering course. I started learning programming on my own at school. The first big step is the brilliant completion of the Yandex Academy course "Backend on Django". Later I tried myself as a mentor on this course. I have different experience in programming: as a mentor, as a teamlead in small team, as a backend developer on event's project in Yandex Academy and as a solo web-developer. Some of my projects are hidden, but you can find examples of my work here.
 
+I am currently working for an outsourcing company with a stack python + fastapi + postgresql 
+
 *   🌍  I'm based in Orenburg
 *   ✉️  You can contact me at [alissonstrange@yandex.com](mailto:alissonstrange@yandex.com)
 *   🧠  My main language - Python. I'm learning Go, Algorithms and Data Structures
